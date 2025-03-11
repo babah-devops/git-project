@@ -1,0 +1,6 @@
+this is a new txt file to start testing git
+
+Adding a new line to test again 
+
+
+another line to indicate changes between branches 
